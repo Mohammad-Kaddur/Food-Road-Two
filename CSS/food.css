@@ -148,10 +148,12 @@ header .container {
 header .container .header-menu {
     display: flex;
     flex-direction: column;
+    justify-content: flex-start;
     position: fixed;
     top: 0;
     right: 0;
     width: 300px;
+    height: 100%;
     padding: 20px;
     z-index: 100;
     background-color: var(--background-color-secion-two);
