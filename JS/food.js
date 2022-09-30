@@ -30,7 +30,7 @@ function showMenu() {
     exit.remove("i");
     logIn.remove("a");
     for (let i = 0; i < menuUl.length; i++) {
-      menuUl[i].style.display = "";
+      menuUl[i].style.display = "none";
     }
   };
 }

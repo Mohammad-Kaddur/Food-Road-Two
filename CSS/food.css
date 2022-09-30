@@ -546,10 +546,6 @@ header .container .log-sign i {
         width: 50%;
     }
 
-    .landing .container .image .assessment>div>span {
-        font-size: 1.2rem;
-    }
-
     .landing .container .image .assessment>div .star i {
         font-size: 1.2rem;
     }
@@ -1330,7 +1326,8 @@ footer .container .footer-end .right>span {
         font-size: 1.1rem;
         padding: 5px 0px;
     }
-    footer .container .footer-box>ul .footer-download-app{
+
+    footer .container .footer-box>ul .footer-download-app {
         padding: 0px;
     }
 
